@@ -1,3 +1,4 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+*.pycpart-0.parquet
