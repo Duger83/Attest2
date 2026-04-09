@@ -37,14 +37,14 @@
 ## Как запустить проект
 
 1. Клонировать репозиторий:
-git clone https://github.com/Duger83/financial-statements-analysis.git
+git clone https://github.com/Duger83/Attest2.git
 
 
 2. Установить зависимости:
 pip install -r requirements.txt
 
 
-3. Запустить Jupyter Notebook и открыть файл `attestation2_analysis.ipynb`
+3. Запустить Jupyter Notebook и открыть файл `Attest2.ipynb`
 
 ## Зависимости
 
